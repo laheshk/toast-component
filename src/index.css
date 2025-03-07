@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Sans:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Geist Sans', system-ui, sans-serif;
+}
+
+.toast-custom {
+  font-family: 'Geist Sans', system-ui, sans-serif !important;
+}
