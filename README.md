@@ -1,2 +1,2 @@
 # toast-component
-Repository created by Bolt to GitHub extension
+A fluid toast component using Sonner as a base.
